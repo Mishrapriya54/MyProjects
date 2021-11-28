@@ -1,0 +1,49 @@
+Guess the number rest service--Made a springboot rest sevice with jdbc template(java api for connecting to the database using springboot) (defined in the other sources/main/application.properties)
+                                 Added springboot-starter-parent,springboot strater web and mysql-connector-java and spring-boot-starter-jdbc in the pom.xml.
+                                 Kept the database config inside. provided url,username and pwd in there.
+@Repository-- 
+
+@SpringBootApplication 
+
+@Autowired 
+
+@Profile(database)--- If we annotate an injectable class with @Profile("profile-name"), we can use it conditionally, depending on configuration.Using that, have to specify in the application.properties like: spring.profiles.active=database  
+ 
+
+@RestController 
+
+@RequestMapping(“/api/GuessTheNumber”) 
+
+@GetMapping(“/round/{id}”) 
+
+@GetMapping(“/game”) 
+
+@PostMapping(“/begin”) 
+
+@GetMapping("game/{id}") 
+
+ @PostMapping("/guess") 
+
+@Service 
+
+@Repository 
+
+@SpringBootTest—In the test classes 
+
+@Transectional 
+
+hotel reservation schema--
+
+vending machine with user interface--ui development in the visual code using,bootstrap,html,css,javascript,rest api endpoints to get the data and post the data using ajax 
+
+                 using postman to validate api and using api to get the data and display,REST api and json,generates dynamic html
+
+DVD library--
+
+vending machine--
+
+vending machine with spring DI--Started with dding depenency for springframework(spring-context) in pom.xml.Then added applicationContext.xml.Declared 
+
+flooring mastery--
+
+Vending Machine Rest Client---

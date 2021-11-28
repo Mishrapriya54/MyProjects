@@ -1,0 +1,4 @@
+com\priyam\vendingmachine\ServiceLayer\VendingMachineServiceImplTest.class
+com\priyam\vendingmachine\ServiceLayer\VendingMachineDaoStubImpl.class
+com\priyam\vendingmachine\ServiceLayer\VendingMachineAuditDaoStubImpl.class
+com\priyam\vendingmachine\DAO\VendingMachineDaoImplTest.class

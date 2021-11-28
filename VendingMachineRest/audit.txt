@@ -1,0 +1,85 @@
+2021-04-21T17:15:52.512934600 : Item Energy Bar is vended
+2021-04-21T17:42:06.537265 : Item Granola Bar is vended
+2021-04-21T19:51:49.202657300 : Item Granola Bar is vended
+2021-04-21T20:25:25.417816400 : Item Granola Bar is vended
+2021-04-21T21:27:58.802831800 : Item Lays Chips is vended
+2021-04-21T21:35:59.241389900 : Item Energy Bar is vended
+2021-04-21T21:59:45.667229100 : Item Energy Bar is vended
+2021-04-21T22:02:25.062554400 : Item Energy Bar is vended
+2021-04-21T22:03:16.492775800 : Item Energy Bar is vended
+2021-04-21T22:07:42.908832400 : Item Energy Bar is vended
+2021-04-21T22:39:27.127715100 : Item Energy Bar is vended
+2021-04-21T22:40:34.867276700 : Item Energy Bar is vended
+2021-04-21T22:44:21.062686800 : Item Energy Bar is vended
+2021-04-21T22:45:11.574242100 : Item Granola Bar is vended
+2021-04-21T23:28:27.563641200 : Item Energy Bar is vended
+2021-04-21T23:46:04.214785400 : Item Energy Bar is vended
+2021-04-22T00:13:45.105300300 : Item Energy Bar is vended
+2021-04-22T00:14:45.129922500 : Item Energy Bar is vended
+2021-04-22T00:16:08.625957100 : Item Energy Bar is vended
+2021-04-22T00:16:47.879080400 : Item Energy Bar is vended
+2021-04-22T00:27:17.713263 : Item Energy Bar is vended
+2021-04-22T00:28:28.149977600 : Item Energy Bar is vended
+2021-04-22T00:28:59.993719100 : Item Energy Bar is vended
+2021-04-22T00:31:13.670495100 : Item Energy Bar is vended
+2021-04-22T00:34:12.620881500 : Item Energy Bar is vended
+2021-04-22T00:34:46.412557500 : Item Energy Bar is vended
+2021-04-22T08:51:05.914841700 : Item Energy Bar is vended
+2021-04-22T08:52:33.910560200 : Item Granola Bar is vended
+2021-04-22T08:54:49.455895500 : Item Granola Bar is vended
+2021-04-22T08:57:30.370671100 : Item Granola Bar is vended
+2021-04-22T08:58:51.478907100 : Item Granola Bar is vended
+2021-04-22T08:59:28.816386400 : Item Granola Bar is vended
+2021-04-22T09:00:20.019308200 : Item Granola Bar is vended
+2021-04-22T09:35:03.351076200 : Item Granola Bar is vended
+2021-04-22T15:27:54.650844100 : Item Coke is vended
+2021-04-22T15:50:10.622175200 : Item Energy Bar is vended
+2021-04-22T16:21:50.816437500 : Item Nachos is vended
+2021-04-22T16:24:55.639527500 : Item Coke is vended
+2021-04-22T16:31:14.838096800 : Item Granola Bar is vended
+2021-04-22T17:07:59.807115200 : Item Nachos is vended
+2021-04-22T17:14:27.938312 : Item Lays Chips is vended
+2021-04-22T17:16:20.408438600 : Item Lays Chips is vended
+2021-04-22T19:25:54.778742300 : Item Energy Bar is vended
+2021-04-22T19:39:08.318045 : Item Energy Bar is vended
+2021-04-22T19:46:14.858954300 : Item Energy Bar is vended
+2021-04-22T19:49:18.402302300 : Item Pretzels is vended
+2021-04-22T20:00:33.342205100 : Item Energy Bar is vended
+2021-04-22T20:11:03.325477200 : Item Energy Bar is vended
+2021-04-22T20:13:09.279243100 : Item Lays Chips is vended
+2021-04-24T16:40:00.196242300 : Item Energy Bar is vended
+2021-04-24T16:40:42.304881300 : Item Granola Bar is vended
+2021-04-24T16:41:25.338407700 : Item Granola Bar is vended
+2021-04-25T19:58:51.892247500 : Item Energy Bar is vended
+2021-04-25T20:06:12.264030800 : Item Granola Bar is vended
+2021-04-25T20:12:11.489680400 : Item Granola Bar is vended
+2021-04-25T20:15:00.006503200 : Item Energy Bar is vended
+2021-04-25T21:19:01.733760 : Item Energy Bar is vended
+2021-04-25T21:48:50.860624 : Item Granola Bar is vended
+2021-04-25T21:58:03.877754300 : Item Wafers is vended
+2021-04-25T22:09:02.347833300 : Item Wafers is vended
+2021-04-25T22:12:17.951715900 : Item Candy is vended
+2021-04-25T22:17:12.682646800 : Item Lays Chips is vended
+2021-04-25T22:22:43.157118400 : Item Candy is vended
+2021-04-25T22:49:06.691981700 : Item Candy is vended
+2021-04-25T22:56:30.509392300 : Item Candy is vended
+2021-04-25T22:57:10.458384400 : Item Wafers is vended
+2021-04-25T23:16:30.178995800 : Item Candy is vended
+2021-04-26T15:03:46.968409800 : Item Energy Bar is vended
+2021-04-26T15:05:49.585552900 : Item Candy is vended
+2021-04-26T15:07:08.263011200 : Item Candy is vended
+2021-04-26T15:07:26.011003300 : Item Candy is vended
+2021-04-26T15:07:43.975017600 : Item Candy is vended
+2021-04-26T15:08:49.118953900 : Item Chocolate is vended
+2021-04-26T19:29:13.975361500 : Item Energy Bar is vended
+2021-04-26T19:33:08.530438300 : Item Chocolate is vended
+2021-04-26T21:30:47.423959700 : Item Coke is vended
+2021-04-26T21:56:07.697696 : Item Energy Bar is vended
+2021-04-26T21:57:40.611363200 : Item Energy Bar is vended
+2021-04-26T21:59:10.988338400 : Item Energy Bar is vended
+2021-04-26T22:07:14.671438200 : Item Energy Bar is vended
+2021-04-26T22:23:16.055377900 : Item Energy Bar is vended
+2021-04-26T22:27:21.999258800 : Item Energy Bar is vended
+2021-04-26T23:53:21.969937800 : Item Onion Rings is vended
+2021-05-03T22:29:38.389498500 : Item Chocolate is vended
+2021-05-03T22:36:49.235972400 : Item Granola Bar is vended

@@ -1,0 +1,5 @@
+TX,Texas,4.45
+MN,Minneapolis,3.35
+IL,Illinois,5.35
+CA,California,25.00
+ND,North Dakota,5.00
